@@ -46,5 +46,3 @@ if img_file_buffer is not None:
       st.header('Arriba, con Probabilidad: '+str( prediction[0][1]))
     #if prediction[0][2]>0.5:
     # st.header('Derecha, con Probabilidad: '+str( prediction[0][2]))
-
-
